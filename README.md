@@ -71,4 +71,5 @@ SportComands.java
 3 Задание: Найдите команду, с средним ростом равным от 74 до 78 inches и средним весом от 190 до 210 lbs, с самым высоким средним возрастом.
 ![{58FF56A2-D7A4-4A15-8336-6C11785AAE3E}](https://github.com/user-attachments/assets/d7354ae5-7182-40e2-83b0-c1583be86b72)
 
-
+БД
+![{68B7C7FA-4E8C-4CCF-8A71-0F70F64EFE76}](https://github.com/user-attachments/assets/ec394571-6af2-4a8e-82f2-83594175da96)
